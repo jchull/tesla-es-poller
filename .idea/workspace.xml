@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="473c7f7a-ee3f-40f1-a792-6be6314e0508" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/Tesla-es-poller_charging_dash.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Tesla-es-poller_charging_dash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Tesla-es-poller_simple_dash.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,13 +18,13 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="216">
-                <caret line="12" column="82" lean-forward="true" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
+              <first_editor relative-caret-position="144">
+                <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -83,7 +84,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,6 +105,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561941753597</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added charging dark screenshot">
+      <created>1561957013578</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561957013578</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -212,6 +220,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.23827875" side_tool="true" weight="0.15741584" />
       <window_info id="Palette&#9;" order="1" />
@@ -222,13 +231,13 @@
       <window_info id="Image Layers" order="6" />
       <window_info id="Nl-Palette" order="7" />
       <window_info id="DB Browser" order="8" sideWeight="0.48727274" weight="0.20457797" />
-      <window_info id="npm" order="9" sideWeight="0.27011493" side_tool="true" visible="true" weight="0.11802575" />
-      <window_info content_ui="combo" id="Project" order="10" sideWeight="0.72988504" visible="true" weight="0.11802575" />
+      <window_info id="npm" order="9" sideWeight="0.27203065" side_tool="true" visible="true" weight="0.11802575" />
+      <window_info active="true" content_ui="combo" id="Project" order="10" sideWeight="0.72796935" visible="true" weight="0.11802575" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.547087" weight="0.24694377" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50572246" side_tool="true" visible="true" weight="0.33503184" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50572246" side_tool="true" weight="0.33503184" />
       <window_info active="true" anchor="bottom" x="1684" y="1233" width="1042" height="670" id="Database Console" order="3" sideWeight="0.46833277" visible="true" weight="0.3613692" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="4" sideWeight="0.49427754" visible="true" weight="0.33503184" />
+      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49427754" visible="true" weight="0.33503184" />
       <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.50496405" side_tool="true" weight="0.33545232" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" sideWeight="0.49624062" weight="0.39980403" />
@@ -247,7 +256,6 @@
       <window_info anchor="bottom" id="TypeScript" order="20" show_stripe_button="false" sideWeight="0.49816513" weight="0.32990196" />
       <window_info anchor="bottom" auto_hide="true" id="Database Changes" order="21" sideWeight="0.49671772" weight="0.32909536" />
       <window_info anchor="bottom" id="Docker" order="22" show_stripe_button="false" />
-      <window_info anchor="right" id="Jenkins" />
       <window_info active="true" anchor="right" id="Coverage" order="0" sideWeight="0.5007375" visible="true" weight="0.150291" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" auto_hide="true" id="Ant Build" internal_type="SLIDING" order="2" show_stripe_button="false" type="SLIDING" weight="0.24986835" />
@@ -265,6 +273,7 @@
       <window_info anchor="right" id="Persistence" order="14" sideWeight="0.31424853" side_tool="true" weight="0.12921576" />
       <window_info anchor="right" id="Maven" order="15" weight="0.3292099" />
       <window_info anchor="right" id="SciView" order="16" sideWeight="0.49926254" weight="0.32933927" />
+      <window_info anchor="right" id="Jenkins" order="17" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,13 +282,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic functionality working, added instruction to README" />
     <MESSAGE value="Added instructions to start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added instructions to start" />
+    <MESSAGE value="Added charging dark screenshot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added charging dark screenshot" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="144">
+            <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -290,13 +303,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="216">
-            <caret line="12" column="82" lean-forward="true" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/config/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>

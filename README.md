@@ -3,9 +3,11 @@ Simple, and poorly-written Node.js app for querying Tesla's owner API and pushin
 
 These dashboards aren't included, they are really simple, if you use Kibana, or have fingers, you can do this.
 
-![sample dashboard](./images/Tesla-es-poller_simple_dash.png)
+## Sample Driving Dashboard
+![sample dashboard](./images/driving.png)
 
-![sample dashboard](./images/Tesla-es-poller_charging_dash.png)
+## Sample Charging Dashboard
+![sample dashboard](./images/charging.png)
 
 # Disclaimers
 This code was banged out in a couple of hours, there is very little to no exception 
