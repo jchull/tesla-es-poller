@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="473c7f7a-ee3f-40f1-a792-6be6314e0508" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/tesla-es-poller.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/owner_endpoints.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/sample.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/vehicle_index_mapping.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Tesla-es-poller_simple_dash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/es-service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/owner-service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tesla-es-poller.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Tesla-es-poller_charging_dash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,9 +21,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="36">
-                <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="216">
+                <caret line="12" column="82" lean-forward="true" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
               </first_editor>
               <second_editor />
             </state>
@@ -58,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/config/.env">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="7" selection-end-line="8" />
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -72,6 +57,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/config/sample.env" />
+        <option value="$PROJECT_DIR$/config/.env" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -198,6 +184,21 @@
       <option name="presentableId" value="Default" />
       <updated>1561940760326</updated>
     </task>
+    <task id="LOCAL-00001" summary="Basic functionality working, added instruction to README">
+      <created>1561941611893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561941611893</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added instructions to start">
+      <created>1561941753597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561941753597</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -222,12 +223,12 @@
       <window_info id="Nl-Palette" order="7" />
       <window_info id="DB Browser" order="8" sideWeight="0.48727274" weight="0.20457797" />
       <window_info id="npm" order="9" sideWeight="0.27011493" side_tool="true" visible="true" weight="0.11802575" />
-      <window_info active="true" content_ui="combo" id="Project" order="10" sideWeight="0.72988504" visible="true" weight="0.11802575" />
+      <window_info content_ui="combo" id="Project" order="10" sideWeight="0.72988504" visible="true" weight="0.11802575" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.547087" weight="0.24694377" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50572246" side_tool="true" visible="true" weight="0.33503184" />
       <window_info active="true" anchor="bottom" x="1684" y="1233" width="1042" height="670" id="Database Console" order="3" sideWeight="0.46833277" visible="true" weight="0.3613692" />
-      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49427754" visible="true" weight="0.33503184" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="4" sideWeight="0.49427754" visible="true" weight="0.33503184" />
       <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.50496405" side_tool="true" weight="0.33545232" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" sideWeight="0.49624062" weight="0.39980403" />
@@ -269,11 +270,16 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic functionality working, added instruction to README" />
+    <MESSAGE value="Added instructions to start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added instructions to start" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" selection-end-line="8" />
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -286,9 +292,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="36">
-            <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="216">
+            <caret line="12" column="82" lean-forward="true" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
           </first_editor>
           <second_editor />
         </state>

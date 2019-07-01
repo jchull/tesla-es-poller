@@ -1,6 +1,12 @@
 # tesla-es-poller
-Simple, and poorly-written Node.js app for querying Tesla's owner API and pushing to Elasticsearch
+Simple, and poorly-written Node.js app for querying Tesla's owner API and pushing to Elasticsearch.
+
+These dashboards aren't included, they are really simple, if you use Kibana, or have fingers, you can do this.
+
 ![sample dashboard](./images/Tesla-es-poller_simple_dash.png)
+
+![sample dashboard](./images/Tesla-es-poller_charging_dash.png)
+
 # Disclaimers
 This code was banged out in a couple of hours, there is very little to no exception 
 handling, and the password is stored in plain text on your local system. If someone
