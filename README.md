@@ -12,6 +12,7 @@ This code will NOT wake your car up, I will probably add that on a different int
 1. Run npm install in main project directory: `npm i`
 2. Copy sample.env configuration file and name it `.env`
 3. Enter email and password for Tesla and for your Elasticsearch instance (leave blank if <<*gasp*>> it is unsecured)
-4. Polling interval is in milliseconds, default is 60000 (1 minute)
+4. (optional) Change polling interval to your preference, value is in milliseconds, default is 60000 (1 minute)
+5. Start it: `npm start`
 
 
