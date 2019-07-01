@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="473c7f7a-ee3f-40f1-a792-6be6314e0508" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tesla-es-poller.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/owner_endpoints.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/sample.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/vehicle_index_mapping.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Tesla-es-poller_simple_dash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/es-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/owner-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tesla-es-poller.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="36">
+                <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/sample.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/sample.env" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/tesla-es-poller.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tesla-es-poller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesla-es-poller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesla-es-poller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesla-es-poller" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesla-es-poller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesla-es-poller" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.karateca.jstoolbox.config.JsToolboxConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="473c7f7a-ee3f-40f1-a792-6be6314e0508" name="Default Changelist" comment="" />
+      <created>1561940760326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561940760326</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.23827875" side_tool="true" weight="0.15741584" />
+      <window_info id="Palette&#9;" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info auto_hide="true" id="Web" order="3" show_stripe_button="false" sideWeight="0.22511385" side_tool="true" weight="0.18041447" />
+      <window_info id="Favorites" order="4" show_stripe_button="false" side_tool="true" weight="0.32994062" />
+      <window_info auto_hide="true" id="Grunt " order="5" show_stripe_button="false" sideWeight="0.4445535" side_tool="true" weight="0.13683788" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Nl-Palette" order="7" />
+      <window_info id="DB Browser" order="8" sideWeight="0.48727274" weight="0.20457797" />
+      <window_info id="npm" order="9" sideWeight="0.27011493" side_tool="true" visible="true" weight="0.11802575" />
+      <window_info active="true" content_ui="combo" id="Project" order="10" sideWeight="0.72988504" visible="true" weight="0.11802575" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.547087" weight="0.24694377" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50572246" side_tool="true" visible="true" weight="0.33503184" />
+      <window_info active="true" anchor="bottom" x="1684" y="1233" width="1042" height="670" id="Database Console" order="3" sideWeight="0.46833277" visible="true" weight="0.3613692" />
+      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49427754" visible="true" weight="0.33503184" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.50496405" side_tool="true" weight="0.33545232" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" sideWeight="0.49624062" weight="0.39980403" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.47804436" weight="0.32356688" />
+      <window_info anchor="bottom" id="Java Enterprise" internal_type="SLIDING" order="9" show_stripe_button="false" type="SLIDING" weight="0.32974032" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52793294" side_tool="true" weight="0.23325184" />
+      <window_info anchor="bottom" id="Application Servers" order="11" />
+      <window_info anchor="bottom" x="383" y="228" width="869" height="545" id="Spring" internal_type="FLOATING" order="12" show_stripe_button="false" sideWeight="0.4986816" type="FLOATING" weight="0.32925037" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.3180367" weight="0.31213307" />
+      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.47424892" weight="0.28954083" />
+      <window_info anchor="bottom" id="DB Execution Console" order="15" sideWeight="0.43744373" weight="0.32848486" />
+      <window_info anchor="bottom" id="Inspection Results" order="16" sideWeight="0.5518755" weight="0.33007336" />
+      <window_info anchor="bottom" id="REST Client" order="17" sideWeight="0.49455154" weight="0.32891566" />
+      <window_info anchor="bottom" id="Duplicates" order="18" />
+      <window_info anchor="bottom" id="Thumbnails" order="19" sideWeight="0.49831933" weight="0.32969698" />
+      <window_info anchor="bottom" id="TypeScript" order="20" show_stripe_button="false" sideWeight="0.49816513" weight="0.32990196" />
+      <window_info anchor="bottom" auto_hide="true" id="Database Changes" order="21" sideWeight="0.49671772" weight="0.32909536" />
+      <window_info anchor="bottom" id="Docker" order="22" show_stripe_button="false" />
+      <window_info anchor="right" id="Jenkins" />
+      <window_info active="true" anchor="right" id="Coverage" order="0" sideWeight="0.5007375" visible="true" weight="0.150291" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" auto_hide="true" id="Ant Build" internal_type="SLIDING" order="2" show_stripe_button="false" type="SLIDING" weight="0.24986835" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" sideWeight="0.68510324" weight="0.14994864" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.14240791" />
+      <window_info anchor="right" id="Designer" order="7" />
+      <window_info anchor="right" id="Properties" order="8" />
+      <window_info anchor="right" id="Leiningen" order="9" weight="0.3295129" />
+      <window_info anchor="right" id="JSF" order="10" show_stripe_button="false" weight="0.3297568" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+      <window_info anchor="right" id="CDI" order="12" show_stripe_button="false" weight="0.3297568" />
+      <window_info anchor="right" id="Bean Validation" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Persistence" order="14" sideWeight="0.31424853" side_tool="true" weight="0.12921576" />
+      <window_info anchor="right" id="Maven" order="15" weight="0.3292099" />
+      <window_info anchor="right" id="SciView" order="16" sideWeight="0.49926254" weight="0.32933927" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/sample.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="36">
+            <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43004417" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
